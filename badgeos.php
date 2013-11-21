@@ -32,7 +32,7 @@ class BadgeOS {
 	 *
 	 * @var string
 	 */
-	public static $version = '1.2.0';
+	public static $version = '1.3.0';
 
 	function __construct() {
 		// Define plugin constants
